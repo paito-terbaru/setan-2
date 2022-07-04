@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://paito-terbaru.github.io/setan-2/sitemap.xml
